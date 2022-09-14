@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrafficAccidentMapNavi</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibWlsa3RlYW9raXRhIiwiYSI6ImNsN2cwdmJ6bTAwZ3Ezb3BqeHgycmxmOXYifQ.iKuTsd_5eZ-sqGmCYTS6Zg</string>
+</resources>
